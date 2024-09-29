@@ -1,0 +1,3 @@
+From requirement 1 where it reads the tag's identity there would be a secondary case of 
+end of tag check to see if the previous character before the '>' was a '/'(slash) character
+if it was, it would not add the tag to the stack and would continue the program

@@ -1,0 +1,11 @@
+Requirement1:
+	Q:Suppose that towers(5, 2, 3) is invoked.
+		1. towers(4,2,1)
+		2. 5 recursive calls to towers() will be made before this first recursive call actually returns to the initial invocation.
+		3. 2 3
+		4. towers(4,1,3)
+	Q:Suppose that towers(8, 1, 2) is invoked. How many lines will be printed to stdout?
+		1. 225 using the unix command wc -l
+
+Everything works!
+
